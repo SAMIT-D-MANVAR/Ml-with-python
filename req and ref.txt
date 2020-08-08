@@ -1,0 +1,20 @@
+software 
+1)python 3 and above
+2)anaconda 
+3)jupyter notebook (even spyder can be used)
+
+libraries
+1)tkinter
+2)pyttsx3
+3)pyaudio
+4)chatterbot
+5)speech_recognition
+5)messagebox
+6)threading
+
+reference
+1)pypi.org
+2)docs.python.org under that tkinter
+3)chatterbot
+
+
